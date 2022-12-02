@@ -10,6 +10,7 @@ This project demonstrates how to use different algorithms to forecast demand and
 ![image](https://user-images.githubusercontent.com/58899897/204681054-058c67af-e434-4d1a-aafb-c6e2a27cd8d3.png)
 ![image](https://user-images.githubusercontent.com/58899897/204681091-fe858a5f-63df-4194-b3c4-0194bd278d9f.png)
 ![image](https://user-images.githubusercontent.com/58899897/204681110-3c6e117a-a8bc-4ce1-b72e-3b33933b129d.png)
+![image](https://user-images.githubusercontent.com/58899897/205188373-61315791-9302-489e-ac4a-e1e67b06ca98.png)
 ![image](https://user-images.githubusercontent.com/58899897/204681135-c8b1bec8-893a-4c44-ae6a-16c1f3b085ed.png)
 ![image](https://user-images.githubusercontent.com/58899897/204681152-68b4244a-d5ca-412c-9875-79dfd18ed0b3.png)
 
